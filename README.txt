@@ -1,0 +1,1 @@
+To start server. In termial: npm start
